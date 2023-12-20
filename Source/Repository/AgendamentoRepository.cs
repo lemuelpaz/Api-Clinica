@@ -79,7 +79,7 @@ namespace API.Source.Repository
                     PacienteId = a.PacienteId,
                     Medico = new Medico
                     {
-                        Id = a.Medico.Id,
+                        Id = a.Medico!.Id,
                         Nome = a.Medico.Nome,
                         Cpf = a.Medico.Cpf,
                         CargoAtribuido = a.Medico.CargoAtribuido,

@@ -1,0 +1,87 @@
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\appsettings.Development.json
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\appsettings.json
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\API.exe
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\API.deps.json
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\API.runtimeconfig.json
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\API.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\API.pdb
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Humanizer.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Microsoft.OpenApi.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Mono.TextTemplating.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Npgsql.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\bin\Release\net7.0\System.CodeDom.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.AssemblyInfo.cs
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.csproj.CopyComplete
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\refint\API.dll
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.pdb
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\API.genruntimeconfig.cache
+C:\Users\Lemue\Downloads\APIMedico\APIMedico\API\obj\Release\net7.0\ref\API.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\appsettings.Development.json
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\appsettings.json
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\API.exe
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\API.deps.json
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\API.runtimeconfig.json
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\API.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\API.pdb
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Humanizer.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Microsoft.OpenApi.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Mono.TextTemplating.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Npgsql.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\bin\Release\net7.0\System.CodeDom.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.AssemblyInfo.cs
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.sourcelink.json
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\staticwebassets.build.json
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\staticwebassets.development.json
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\staticwebassets\msbuild.build.API.props
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.API.props
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\staticwebassets.pack.json
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\scopedcss\bundle\API.styles.css
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.csproj.CopyComplete
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\refint\API.dll
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.pdb
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\API.genruntimeconfig.cache
+C:\Users\joela\Área de Trabalho\Api-Clinica\obj\Release\net7.0\ref\API.dll

@@ -22,7 +22,11 @@ builder.Services.AddDbContext<DataContext>(opt => opt.UseNpgsql(AppSettings.Post
 
 var app = builder.Build();
 
-app.UseCors();
+
+
+app.UseCors(x => x.WithOrigins("http://localhost:5173")
+               .AllowAnyMethod()
+               .AllowAnyHeader());
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

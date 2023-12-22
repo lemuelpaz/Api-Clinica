@@ -13,11 +13,13 @@ namespace API.Source.Base.Ioc
             service.AddScoped<IMedicoService, ProfissionalService>();
             service.AddScoped<IPacienteService, PacienteService>();
             service.AddScoped<IAgendamentoService, AgendamentoService>();
+            service.AddScoped<IHoraAgendamentoService, HoraAgendamentoService>();
 
             //repository
             service.AddScoped<IMedicoRepository, ProfissionalRepository>();
             service.AddScoped<IPacienteRepository, PacienteRepository>();
             service.AddScoped<IAgendamentoRepository, AgendamentoRepository>();
+            service.AddScoped<IHoraAgendamentoRepository, HoraAgendamentoRepository>();
         }
     }
 }

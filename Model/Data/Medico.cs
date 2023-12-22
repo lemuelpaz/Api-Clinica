@@ -21,9 +21,14 @@ namespace API.Model.Data
         //Pacientes
         [XmlIgnore, JsonIgnore]
         public List<Paciente>? Paciente { get; set; }
+
         [XmlIgnore, JsonIgnore]
         public List<Agendamento>? Agendamento { get; set; }
+
         [XmlIgnore, JsonIgnore]
         public List<Atendimento>? Atendimento { get; set; }
+
+        [XmlIgnore, JsonIgnore]
+        public List<HoraAgendamento>? HoraAgendamento { get; set; }
     }
 }

@@ -15,7 +15,7 @@ namespace API.Model.Data
         public int? MedicoId { get; set; }
         public string? Observacao { get; set; }
 
-
+        [XmlIgnore, JsonIgnore]
         public Medico? Medico { get; set; }
 
         [XmlIgnore, JsonIgnore]

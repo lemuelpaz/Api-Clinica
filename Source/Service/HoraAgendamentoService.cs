@@ -4,20 +4,18 @@ using API.Source.Base.Contracts.Service;
 
 namespace API.Source.Service
 {
-    public class AgendamentoService : IAgendamentoService
+    public class HoraAgendamentoService : IHoraAgendamentoService
     {
 
         #region Constructor
-        private readonly IAgendamentoRepository _repository;
-        private readonly IHoraAgendamentoService _horaService;
-        public AgendamentoService(IAgendamentoRepository repository, IHoraAgendamentoService horaService)
+        private readonly IHoraAgendamentoRepository _repository;
+        public HoraAgendamentoService(IHoraAgendamentoRepository repository)
         {
             _repository = repository;
-            _horaService = horaService;
         }
         #endregion
 
-        public async Task<Agendamento> Create(Agendamento createDTO)
+        public async Task<HoraAgendamento> Create(HoraAgendamento createDTO)
         {
             return await _repository.Create(createDTO);
         }
@@ -27,17 +25,22 @@ namespace API.Source.Service
             return await _repository.Delete(id);
         }
 
-        public async Task<Agendamento> Get(int id)
+        public async Task<HoraAgendamento> Get(int id)
         {
             return await _repository.Get(id);
         }
 
-        public async Task<List<Agendamento>> List()
+        public async Task<List<HoraAgendamento>> List()
         {
             return await _repository.List();
         }
 
-        public async Task<Agendamento> Update(Agendamento updateDTO)
+        public async Task<List<HoraAgendamento>> ListByProfissional(int? profissionalId)
+        {
+            return await _repository.ListByProfissional(profissionalId);
+        }
+
+        public async Task<HoraAgendamento> Update(HoraAgendamento updateDTO)
         {
             return await _repository.Update(updateDTO);
         }

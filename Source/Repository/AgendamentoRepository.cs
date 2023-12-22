@@ -66,35 +66,7 @@ namespace API.Source.Repository
         /// <returns></returns>
         public async Task<List<Agendamento>> List()
         {
-            return await _context.Agendamento
-                .Include(x => x.Medico)
-                .Select(a => new Agendamento
-                {
-                    Id = a.Id,
-                    Atendimento = a.Atendimento,
-                    Horario = a.Horario,
-                    MedicoId = a.MedicoId,
-                    Observacao = a.Observacao,
-                    Paciente = a.Paciente,
-                    PacienteId = a.PacienteId,
-                    Medico = new Medico
-                    {
-                        Id = a.Medico!.Id,
-                        Nome = a.Medico.Nome,
-                        Cpf = a.Medico.Cpf,
-                        CargoAtribuido = a.Medico.CargoAtribuido,
-                        Atendimento = a.Medico.Atendimento,
-                        CreatedAt = a.Medico.CreatedAt,
-                        Email = a.Medico.Email,
-                        Idade = a.Medico.Idade,
-                        Agendamento = a.Medico.Agendamento,
-                        Paciente = a.Medico.Paciente,
-                        Status = a.Medico.Status,
-                        Telefone = a.Medico.Telefone,
-                        UpdatedAt = a.Medico.UpdatedAt
-                    },
-                })
-                .ToListAsync();
+            return await _context.Agendamento.ToListAsync();
         }
 
         /// <summary>
